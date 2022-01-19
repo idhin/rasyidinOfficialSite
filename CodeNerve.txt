@@ -1,0 +1,17 @@
+<span id="a">hi@rasy1din</span>:<span id="b">~</span><span id="c">$</span> whoami 
+<!-- dwadwadgwahdwakdwadwa -->
+<br>Hi! My name is Khulafaur Rasyidin. 🙋‍♂️
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>So grateful to be sharing my world 👨‍💻
+<br> Currently i am work as freelance with IT Security & Web Devs 
+</p> 
+<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+if you want to know about me in daily life, <br>
+check my <a href="https://instagram.com/khulafaurrr">Instagram</a>,or <a href="https://twitter.com/iwasnotfound">Twitter</a>.
+<br>
+Oh, don't forget to connect with me on <a href="https://www.linkedin.com/in/rasyidin/">LinkedIn</a> too. 
+</p>
+
+<p>Nice to meet you, btw. See you later 👋</p>
+<span id="a">hi@rasy1din</span>:<span id="b">~</span><span id="c">$</span> 
